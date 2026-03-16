@@ -1,4 +1,4 @@
-logistics-analytics-sql-project
+logistics-sql-analytics
 
 This project analyzes logistics operations to identify factors affecting delivery delays, route efficiency, and vehicle performance.
 The analysis combines Python, SQL, and Power BI to transform raw shipment data into operational insights.
